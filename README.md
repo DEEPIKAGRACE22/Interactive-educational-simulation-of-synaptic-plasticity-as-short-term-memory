@@ -10,7 +10,7 @@ SynaptiLab is an educational simulation project about how temporary changes in s
 
 ## Central Claim
 
-> A Hebbian synaptic update can store a recently observed association in connection strengths, allowing the association to be recalled after the original input disappears, while decay and interference limit how long that memory remains reliable.
+> Short-term synaptic plasticity can store recent information in changing synaptic states, but the persistence of these traces creates a trade-off between remembering recent information and being influenced by new or competing information.
 
 This is the claim of a planned simplified educational model. It is not a claim that this repository is a complete implementation of BDH.
 

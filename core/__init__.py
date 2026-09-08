@@ -1,0 +1,1 @@
+"""Core educational simulation components."""
